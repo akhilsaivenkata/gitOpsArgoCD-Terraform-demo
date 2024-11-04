@@ -65,11 +65,10 @@ Finally, HIT the below command to create the infrastructure...
 type yes, and it will prompt you for permission or use --auto-approve in the command above.
 
 ##Screenshots
-![Docker]()
-![CircleCI]()
-![ArgoCD]()
-![ArgoCD]()
-![Application]()
+![Docker](dockerss.png)
+![CircleCI](circleciss.png)
+![ArgoCD](argocdss.png)
+![Application](applicationss.png)
 **This project contains Three GitHub repositories**
 
 ➡️ [App Code] (https://github.com/akhilsaivenkata/AppCode)
